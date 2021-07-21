@@ -13,4 +13,5 @@ speaker เป็นอ็อปชั้นเสริม
 ข้อดี
 เป็นระบบง่ายๆไม่ค่อยซับซ่อน และสามารถทำได้ไม่ยาก
 ตัวอุปการต่างๆราคาไม่สูง
-<img src="playdog_parts_M4twZRRocn.jpg"></img>
+<br>
+<img src="playdog_parts_M4twZRRocn.jpg">
