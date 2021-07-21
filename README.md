@@ -1,7 +1,6 @@
 # project
 จะเป็นโปรเจค เครื่องให้อาหารสัตว์อัตโนมัติ
 ซึ่งในระบบจะมีอุปกรดั้งนี้
-
   <br>
   <b><a href="https://store.arduino.cc/usa/arduino-uno-rev3">Arduini uno</b></a>
   (จำเป็นต้องมี module wifi เพิ่ม) ,<b><a href="https://store.arduino.cc/usa/arduino-uno-rev3">ESP8266</b></a> หรือ <b><a href="https://www.espressif.com/en/products/socs/esp8266">EPS32</b></a> 
@@ -19,4 +18,5 @@
 <br>
 <img src="document/playdog_parts_M4twZRRocn.jpg">
 <br>
+<img src="document/ui.jpg">
 
