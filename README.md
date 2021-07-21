@@ -1,8 +1,8 @@
 # project
 จะเป็นโปรเจค เครื่องให้อาหารสัตว์อัตโนมัติ
 ซึ่งในระบบจะมีอุปกรดั้งนี้
-Arduini uno(จำเป็นต้องมี module wifi เพิ่ม) ,ESP8266 หรือ EPS32 
-PIR Motion Sensor เซ็นเซอร์จับตวามเคลื่อนไหว
+<a><b>Arduini uno</b>(จำเป็นต้องมี module wifi เพิ่ม) ,<b>ESP8266</b> หรือ <b>EPS32</b> </a>
+<a><b>PIR Motion Sensor</b> เซ็นเซอร์จับตวามเคลื่อนไหว<a>
 Servo Motor ขนาดเล็ก
 speaker เป็นอ็อปชั้นเสริม
 
@@ -15,3 +15,5 @@ speaker เป็นอ็อปชั้นเสริม
 ตัวอุปการต่างๆราคาไม่สูง
 <br>
 <img src="document/playdog_parts_M4twZRRocn.jpg">
+<br>
+
