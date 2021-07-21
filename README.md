@@ -4,8 +4,7 @@
 <a>
   <br>
   <b><a href="https://store.arduino.cc/usa/arduino-uno-rev3">Arduini uno</b></a>
-  
-  <br>(จำเป็นต้องมี module wifi เพิ่ม) ,<b>ESP8266</b> หรือ <b>EPS32</b> </a>
+  (จำเป็นต้องมี module wifi เพิ่ม) ,<b>ESP8266</b> หรือ <b>EPS32</b> </a>
 <a><b>PIR Motion Sensor</b> เซ็นเซอร์จับตวามเคลื่อนไหว<a>
 Servo Motor ขนาดเล็ก
 speaker เป็นอ็อปชั้นเสริม
