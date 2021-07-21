@@ -14,4 +14,4 @@ speaker เป็นอ็อปชั้นเสริม
 เป็นระบบง่ายๆไม่ค่อยซับซ่อน และสามารถทำได้ไม่ยาก
 ตัวอุปการต่างๆราคาไม่สูง
 <br>
-<img src="documents/playdog_parts_M4twZRRocn.jpg">
+<img src="Documents/playdog_parts_M4twZRRocn.jpg">
